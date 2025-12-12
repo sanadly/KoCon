@@ -1,0 +1,5 @@
+{
+  "name": "KoCon - Smart Dispenser Portal",
+  "description": "A medical dashboard for configuring smart medication dispensers, monitoring patient compliance, and analyzing usage data via Gemini AI.",
+  "requestFramePermissions": []
+}
